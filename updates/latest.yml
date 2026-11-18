@@ -1,0 +1,8 @@
+version: 2.0.1
+files:
+  - url: GST-Invoice-Maker-Setup-2.0.1.exe
+    sha512: 7eY7XfE2m7CifAyQWx0kIMreIR7r+YtLBT6pkh97L/yUOmTfs3VJPNe/8465fYu2fU8kJmo4rJJqJvURp//oIg==
+    size: 81558431
+path: GST-Invoice-Maker-Setup-2.0.1.exe
+sha512: 7eY7XfE2m7CifAyQWx0kIMreIR7r+YtLBT6pkh97L/yUOmTfs3VJPNe/8465fYu2fU8kJmo4rJJqJvURp//oIg==
+releaseDate: '2026-11-18T09:16:13.007Z'

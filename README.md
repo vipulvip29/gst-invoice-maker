@@ -6,3 +6,7 @@ Ye repository sirf software ke **installer aur updates** rakhne ke liye hai. Koi
 
 - Install karne ke liye: **Releases** me sabse naya `GST-Invoice-Maker-Setup-x.y.z.exe` download karein.
 - Software me **Update → "Internet se naya version check karein"** dabane par yahin se naya version aata hai.
+
+## Download
+
+Sabse naya installer: [`updates/`](updates/) folder me `GST-Invoice-Maker-Setup-x.y.z.exe`.
